@@ -1,0 +1,37 @@
+<div class="mission">
+            <div class="row">
+                <div class="container">
+                <div class="col-md-6">
+                 <ul class="nav nav-tabs" id="myTab" role="tablist">
+              <li class="nav-item">
+                <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true">MISSION</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="false">CUSTMOERS</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" id="contact-tab" data-toggle="tab" href="#contact" role="tab" aria-controls="contact" aria-selected="false">IDEAS</a>
+              </li>
+            </ul>
+            <div class="tab-content" id="myTabContent">
+              <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
+                  <p>Expedita minima fugiat ea maiores itaque natus animi officia iure deleniti     unde, facilis velit optio! Culpa quis neque tempora deleniti assumenda aperiam.
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt neque porro quia quidem saepe assumenda asperiores quo ratione ipsam nulla quisquam.</p>
+                </div>
+              <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
+                <p>Itaque omnis tenetur placeat facere mollitia molestias, doloribus pariatur sapiente qui hic laboriosam aut accusamus repellat ab perspiciatis commodi voluptates.
+                Amet reiciendis natus dolorem nisi iusto vel laudantium quisquam tenetur, saepe rem ducimus, harum possimus delectus ex neque numquam officia! Dolore, ut?</p>
+                </div>
+              <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">
+                <p>Eligendi dolorem repellat, officiis nobis. Itaque repudiandae, eligendi totam        nihil aliquid, vitae quos cum minus nulla autem, in? Temporibus, accusantium.
+                    Iusto et omnis vel, ex illo rem qui provident sed deserunt deleniti voluptatem, labore. Quia modi dignissimos, dicta sapiente aspernatur, consectetur veritatis.</p>
+                </div>
+            </div>   
+                    <div class="col-md-6">
+                        <img class="docu" src="images/bg-image-30.jpg">
+                    </div>
+                    </div>
+            </div>
+        </div>
+        </div>  
+ 

@@ -1,0 +1,277 @@
+
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.backg{
+    background-color: transparent;
+    position: relative;
+}    
+nav ul{
+    padding-right:80px;
+    color: #fff;
+}
+
+.navbar-brand{
+    padding-left: 90px;
+    font-size: 35px;
+    color: #fff;
+}
+nav li{
+    padding-right: 20px;
+    font-size: 14px;
+    color: #fff;
+}
+.dot{
+    color: #337ab7;
+    font-size: 35px;
+}
+.fa-sm{
+    padding-right: 20px;
+    padding-top: 12px;
+    color: #fff;
+}
+.carousel-caption {
+   margin-bottom:170px;
+}
+.carousel-caption h3{
+    font-size: 100px;
+}
+.carousel-caption p{
+    font-size: 20px;
+    color: #fff;
+}
+.d-block{
+    height: 620px;
+}
+.layer{
+    background-color: rgba(0,0,0,0.7);
+    position: relative;
+}
+.btn{
+    color: #fff;
+    background-color: #00c3da;
+    padding: 0 30px;
+    height: 50px;
+    font-size: 14px;
+    font-weight: 600;
+    margin-top: 15px;
+    border: 1px solid transparent;
+}
+.trans{
+    background-color: transparent;
+    border: 1px solid #fff;
+    margin-right: 10px;
+}
+.navbar-light .navbar-brand{
+    color: #fff;
+}
+.navbar-light .navbar-nav .nav-link{
+   color: #fff; 
+}
+.py-5{
+    margin-top: 60px; 
+}
+.who{
+    text-align: center;
+}
+.who h4{
+    font-size: 13px;
+    font-weight: 500;
+}
+.who p{
+    font-size: 20px;
+    padding-right: 250px;
+    padding-left: 250px;    
+    font-weight: 300;
+    color: #787878;
+}
+.bton{
+    margin-top: 20px;
+    padding: 15px 20px;
+    background-color: #fff;
+    border: 1px solid rgba(0,0,0,0.2);
+    font-size: 12px;
+    margin-bottom: 50px;
+}
+.lab{
+    height: 600px;
+    width: 670px;
+}
+.nav-tabs{
+    border-bottom: none;
+}
+.nav-tabs .nav-link{
+    font-size: 12px;
+    border: none;
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+}
+p{ 
+margin-top: 30px;
+font-size: 16px;
+font-weight: 400;
+color: #787878;
+padding-left: 18px;
+padding-right: 18px;
+}
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active{
+    border-bottom: 1px solid black;
+}
+.bton1{
+    margin-top: 20px;
+    padding: 15px 20px;
+    background-color: #fff;
+    border: 1px solid rgba(0,0,0,0.2);
+    font-size: 11px;
+    margin-left: 20px;
+    border-radius: 5px;  
+}
+.cre{
+    text-align: center;
+    font-size: 38px;
+    font-weight: 700;
+}
+.para{
+    text-align: center;
+    margin-top: 0;
+}
+.teami{
+    height: 300px;
+    width: 250px;
+}
+*{
+  transition: all 1s;  
+}
+.cont
+{
+    position: relative;
+    overflow: hidden;
+}
+.layer1
+{
+    position: absolute;
+    bottom: 100%;
+    left: 0;
+    background-color: rgba(0, 195, 218, 0.9);
+    color: #fff;
+    padding: 20px;
+    height: 100%;
+    width: 100%;
+    
+}
+.cont:hover .layer1
+{
+    bottom: 0%;
+}
+.team-info h4{ 
+    font-size: 14px;
+    font-weight: 600;
+}
+span{
+    font-size: 12px; 
+}
+#work .nav-pills .nav-link
+{
+    padding: 8px 20px;
+    border-radius: 50px;
+    border: solid 1px rgba(0,0,0,0.1);
+    font-size: 13px;
+    border-color: #00c3da;
+}
+.w-35
+{
+    width: 35%;
+}
+.cont
+{
+    position: relative;
+    overflow: hidden;
+}
+
+.pro
+{
+    text-align: center;
+    position: absolute;
+    bottom: 100%;
+    left: 5%;
+    background-color: #fff;
+    color: black;
+    padding: 15px;
+    height: 120px;
+    width: 90%;
+    margin: auto;
+    
+}
+
+.cont:hover .pro
+{
+    bottom: 10%;
+   
+}
+.cont:hover img
+{
+    transform: scale(1.2,1.2);  
+}
+.cheap{
+    text-align: center;
+    background-color: #f7f7f7;
+}
+.cheap h3{
+    font-size: 35px;
+    font-weight: 800;
+}
+.card-title{
+    text-align: left;
+    font-size: 45px;
+    font-weight: 700;
+}
+.collect{
+    text-align: left;
+}
+.best{
+    position: absolute;
+    top: 32px;
+    right: 25px;
+    font-size: 9px;
+    font-weight: 600;
+    background-color: #00c3da;
+    padding: 5px 10px;
+    border-radius: 20px;
+    color: #fff;
+    height: 30px;
+}
+.sign{
+    font-size: 12px;
+    padding: 0px 16px;
+    height: 40px;
+    line-height: 40px;
+}
+.vl{
+    top: 0;
+    bottom: 0;
+    height: 40px;
+    border-left: 1px solid #F5FFF2;
+    margin-right: 10px;
+}
+.data{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #1f1f1f;
+}
+.data i{
+    text-align: center;
+    margin-right: 50px;
+    transform: translateX(110px);
+    color: #00c3da;
+}
+.data p{
+    text-align: center;
+    color: #fff;
+    font-size: 40px;
+}
+.data h4{
+    text-align: center;
+    font-size: 25px;
+    color: #fff;
+}
